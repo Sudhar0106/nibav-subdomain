@@ -1,0 +1,3530 @@
+[
+    {
+        "orderId": 635,
+        "isCancelled": false,
+        "customerName": "Pascale Patel",
+        "model": "Series III Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "46 Second Street, Qui delectus nulla , chennai, Tamil Nadu, 784545, India",
+        "deliveryAddress": {
+            "addressLine1": "46 Second Street",
+            "addressLine2": "Qui delectus nulla ",
+            "city": "chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "784545",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-10-16T12:43:13.000Z",
+        "createdAt": "2024-10-16T12:11:52.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-16T12:14:38.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-16T12:43:13.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-16T12:45:22.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 629,
+        "isCancelled": false,
+        "customerName": "Arun Muniyappan",
+        "model": "Series III Max",
+        "floor": 4,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "123 mariyamman koil street, Tnagar, chnnai, Tamil Nadu, 600312, India",
+        "deliveryAddress": {
+            "addressLine1": "123 mariyamman koil street",
+            "addressLine2": "Tnagar",
+            "city": "chnnai",
+            "state": "Tamil Nadu",
+            "pinCode": "600312",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Approved",
+        "stageStatusDate": "2024-10-15T09:40:28.000Z",
+        "createdAt": "2024-10-15T09:11:18.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approved",
+                "stageStatusDate": "2024-10-15T09:17:51.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approved",
+                "stageStatusDate": "2024-10-15T09:40:28.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approved",
+                "stageStatusDate": "2024-10-15T09:56:34.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-15T10:10:38.000Z"
+            }
+        ],
+        "assigner": "Rangeesh",
+        "assignee": "Baskar",
+        "assignerEmployeeId": "8310",
+        "assigneeEmployeeId": "30310"
+    },
+    {
+        "orderId": 626,
+        "isCancelled": false,
+        "customerName": "Ram Shankar",
+        "model": "Series IV",
+        "floor": 2,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "Thiruvalluvar nagar, Thiruvanmiyur, Chennai, Tamil Nadu, 600041, India",
+        "deliveryAddress": {
+            "addressLine1": "Thiruvalluvar nagar",
+            "addressLine2": "Thiruvanmiyur",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600041",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "approved",
+        "stageStatusDate": "2024-10-16T07:14:06.000Z",
+        "createdAt": "2024-10-14T10:06:43.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Payment approved",
+                "stageStatusDate": "2024-10-14T10:10:02.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved",
+                "stageStatusDate": "2024-10-16T07:14:06.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "prasana kumar",
+        "assignee": "Akbar",
+        "assignerEmployeeId": "8962",
+        "assigneeEmployeeId": "30320"
+    },
+    {
+        "orderId": 625,
+        "isCancelled": false,
+        "customerName": "Arun QA",
+        "model": "Series III Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "74 First Lane, Ut ducimus autem et, chennai, Assam, 565666, India",
+        "deliveryAddress": {
+            "addressLine1": "74 First Lane",
+            "addressLine2": "Ut ducimus autem et",
+            "city": "chennai",
+            "state": "Assam",
+            "pinCode": "565666",
+            "country": "India",
+            "stateShortName": "AS",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-10-14T09:23:11.000Z",
+        "createdAt": "2024-10-14T09:11:41.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-14T09:19:33.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-14T09:23:11.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-14T09:37:36.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-14T10:02:38.000Z"
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 621,
+        "isCancelled": false,
+        "customerName": "Arun QA",
+        "model": "Series III Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "133 Oak Road, Excepteur dolor offi, chennai, Puducherry, 565662, India",
+        "deliveryAddress": {
+            "addressLine1": "133 Oak Road",
+            "addressLine2": "Excepteur dolor offi",
+            "city": "chennai",
+            "state": "Puducherry",
+            "pinCode": "565662",
+            "country": "India",
+            "stateShortName": "PY",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-10-14T06:26:32.000Z",
+        "createdAt": "2024-10-14T04:18:09.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-14T04:21:39.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-14T06:26:32.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-14T06:30:56.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-14T06:44:10.000Z"
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 620,
+        "isCancelled": false,
+        "customerName": "Vinoth Kumar",
+        "model": "Series III Max",
+        "floor": 2,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 789 Poyes Garden, Gopalapuram, Chennai, Tamil Nadu, 600111, India",
+        "deliveryAddress": {
+            "addressLine1": "No 789 Poyes Garden",
+            "addressLine2": "Gopalapuram",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600111",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "70% Of The Order Received",
+        "stageStatusDate": "2024-10-14T04:08:14.000Z",
+        "createdAt": "2024-10-14T03:45:40.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "30% of the payment received.",
+                "stageStatusDate": "2024-10-14T03:47:33.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "70% Of The Order Received",
+                "stageStatusDate": "2024-10-14T04:08:14.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-15T11:01:48.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "Arun",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "8204"
+    },
+    {
+        "orderId": 618,
+        "isCancelled": false,
+        "customerName": "Manoj",
+        "model": "Series IV",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "3rd cross street, Nungambakkam, Chennai, Tamil Nadu, 600034, India",
+        "deliveryAddress": {
+            "addressLine1": "3rd cross street",
+            "addressLine2": "Nungambakkam",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600034",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "India",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "fullPayment is completed ",
+        "stageStatusDate": "2024-10-11T11:46:30.000Z",
+        "createdAt": "2024-10-11T11:36:22.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "fullPayment is completed ",
+                "stageStatusDate": "2024-10-11T11:40:12.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "fullPayment is completed ",
+                "stageStatusDate": "2024-10-11T11:46:30.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "fullPayment is completed ",
+                "stageStatusDate": "2024-10-11T11:49:34.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "approved",
+                "stageStatusRemark": "fullPayment is completed ",
+                "stageStatusDate": "2024-10-11T11:57:45.000Z"
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "Baskar",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "30310"
+    },
+    {
+        "orderId": 617,
+        "isCancelled": false,
+        "customerName": "sathish",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "adsf, asdf, sadfas, Assam, 234344, India",
+        "deliveryAddress": {
+            "addressLine1": "adsf",
+            "addressLine2": "asdf",
+            "city": "sadfas",
+            "state": "Assam",
+            "pinCode": "234344",
+            "country": "India",
+            "stateShortName": "AS",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "Nibav tower",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Office ah da ithu...",
+        "stageStatusDate": "2024-10-11T10:25:11.000Z",
+        "createdAt": "2024-10-11T10:22:15.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Office ah da ithu...",
+                "stageStatusDate": "2024-10-11T10:24:35.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Office ah da ithu...",
+                "stageStatusDate": "2024-10-11T10:25:11.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Office ah da ithu...",
+                "stageStatusDate": "2024-10-11T10:26:15.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 579,
+        "isCancelled": false,
+        "customerName": "Madhan K",
+        "model": "Series IV Max",
+        "floor": 3,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 77 Parrys corner, Mambalam, Chennai, Tamil Nadu, 601107, India",
+        "deliveryAddress": {
+            "addressLine1": "No 77 Parrys corner",
+            "addressLine2": "Mambalam",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "601107",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "70% of the order received",
+        "stageStatusDate": "2024-10-07T09:00:08.000Z",
+        "createdAt": "2024-10-07T08:49:38.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Payment verified.",
+                "stageStatusDate": "2024-10-07T08:51:26.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "70% of the order received",
+                "stageStatusDate": "2024-10-07T09:00:08.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "Magesh Kumar",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "8464"
+    },
+    {
+        "orderId": 563,
+        "isCancelled": false,
+        "customerName": "Raguvaran B",
+        "model": "Series III",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "Flat no 100, VGN Platina, Chennai, Tamil Nadu, 600077, India",
+        "deliveryAddress": {
+            "addressLine1": "Flat no 100",
+            "addressLine2": "VGN Platina",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600077",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "70% received.",
+        "stageStatusDate": "2024-10-05T12:31:49.000Z",
+        "createdAt": "2024-10-05T12:18:38.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "payment received.",
+                "stageStatusDate": "2024-10-05T12:20:41.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "70% received.",
+                "stageStatusDate": "2024-10-05T12:31:49.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-06T15:38:03.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "Rangeesh",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "8310"
+    },
+    {
+        "orderId": 541,
+        "isCancelled": false,
+        "customerName": "Dinesh A",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "vsdfgdg, dfgdfg, gdfg, Assam, 423434, India",
+        "deliveryAddress": {
+            "addressLine1": "vsdfgdg",
+            "addressLine2": "dfgdfg",
+            "city": "gdfg",
+            "state": "Assam",
+            "pinCode": "423434",
+            "country": "India",
+            "stateShortName": "AS",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "Chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-10-04T13:08:51.000Z",
+        "createdAt": "2024-10-04T13:07:06.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-04T13:07:54.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-04T13:08:51.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-04T13:14:23.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-04T13:18:17.000Z"
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 533,
+        "isCancelled": false,
+        "customerName": "Dinesh J",
+        "model": "Series III Max",
+        "floor": 2,
+        "deliveryType": "rapidDelivery",
+        "fullDeliveryAddress": "Dinesh, Mjs, Chennai, Alaska, 34534, USA",
+        "deliveryAddress": {
+            "addressLine1": "Dinesh",
+            "addressLine2": "Mjs",
+            "city": "Chennai",
+            "state": "Alaska",
+            "pinCode": "34534",
+            "country": "USA",
+            "stateShortName": "AK",
+            "countryShortName": "US"
+        },
+        "tax": 0.18,
+        "customerAddress": "Chennai",
+        "bucket": "nl-ue",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Payment verified",
+        "stageStatusDate": "2024-10-07T05:06:54.000Z",
+        "createdAt": "2024-10-04T11:46:44.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Payment done",
+                "stageStatusDate": "2024-10-07T04:48:05.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Payment verified",
+                "stageStatusDate": "2024-10-07T05:06:54.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Dinesh J",
+        "assignee": "Dinesh J",
+        "assignerEmployeeId": "7874",
+        "assigneeEmployeeId": "7874"
+    },
+    {
+        "orderId": 531,
+        "isCancelled": false,
+        "customerName": "Dinesh A",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "fsdffdg, gfdgdf, gfdg, Arunachal Pradesh, 432434, India",
+        "deliveryAddress": {
+            "addressLine1": "fsdffdg",
+            "addressLine2": "gfdgdf",
+            "city": "gfdg",
+            "state": "Arunachal Pradesh",
+            "pinCode": "432434",
+            "country": "India",
+            "stateShortName": "AR",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "Chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-10-04T13:03:46.000Z",
+        "createdAt": "2024-10-04T11:37:00.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-04T13:02:57.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-04T13:03:46.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 530,
+        "isCancelled": false,
+        "customerName": "Sathiya Narayanan",
+        "model": "Series III",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "Palavakkam , Chennai, Chennai, Tamil Nadu, 600002, India",
+        "deliveryAddress": {
+            "addressLine1": "Palavakkam ",
+            "addressLine2": "Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600002",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Second payment for 530 approved",
+        "stageStatusDate": "2024-10-04T13:39:05.000Z",
+        "createdAt": "2024-10-04T11:28:41.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Document Over",
+                "stageStatusDate": "2024-10-04T11:36:40.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Second payment for 530 approved",
+                "stageStatusDate": "2024-10-04T13:39:05.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 528,
+        "isCancelled": false,
+        "customerName": "keralin britto",
+        "model": "Series III Max",
+        "floor": 3,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "Mandaveli pakkam, Raja annamalai puram, chennai, Tamil Nadu, 600028, India",
+        "deliveryAddress": {
+            "addressLine1": "Mandaveli pakkam",
+            "addressLine2": "Raja annamalai puram",
+            "city": "chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600028",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "70% Of The Order Received",
+        "stageStatusDate": "2024-10-04T11:50:59.000Z",
+        "createdAt": "2024-10-04T11:22:50.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "30% of the payment received.",
+                "stageStatusDate": "2024-10-04T11:31:26.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "70% Of The Order Received",
+                "stageStatusDate": "2024-10-04T11:50:59.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-07T04:28:51.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "muthu",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "30302"
+    },
+    {
+        "orderId": 523,
+        "isCancelled": false,
+        "customerName": "Magesh Kumar A T",
+        "model": "Series III Max",
+        "floor": 3,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 5 Appaswamy apartments, OMR, Chennai, Tamil Nadu, 600153, India",
+        "deliveryAddress": {
+            "addressLine1": "No 5 Appaswamy apartments",
+            "addressLine2": "OMR",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600153",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "70% of the payment received",
+        "stageStatusDate": "2024-10-04T10:00:22.000Z",
+        "createdAt": "2024-10-04T09:15:45.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "30% of the payment received",
+                "stageStatusDate": "2024-10-04T09:19:38.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "70% of the payment received",
+                "stageStatusDate": "2024-10-04T10:00:22.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-08T12:22:44.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "kishor",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "10101"
+    },
+    {
+        "orderId": 509,
+        "isCancelled": false,
+        "customerName": "Sooriya N",
+        "model": "Series IV Max",
+        "floor": 3,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 5 Appaswamy apartments, OMR, Chennai, Tamil Nadu, 600153, India",
+        "deliveryAddress": {
+            "addressLine1": "No 5 Appaswamy apartments",
+            "addressLine2": "OMR",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600153",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "70% of the payment done.",
+        "stageStatusDate": "2024-10-04T03:24:04.000Z",
+        "createdAt": "2024-10-04T03:11:05.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "30% of the payment received.",
+                "stageStatusDate": "2024-10-04T03:12:46.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "70% of the payment done.",
+                "stageStatusDate": "2024-10-04T03:24:04.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-04T05:32:56.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "Magesh Kumar",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "8464"
+    },
+    {
+        "orderId": 498,
+        "isCancelled": false,
+        "customerName": "Arun Muniyappan QA Tetser",
+        "model": "Series IV",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "49 First Court, In ab nesciunt aliq, Chennai, Andhra Pradesh, 895652, India",
+        "deliveryAddress": {
+            "addressLine1": "49 First Court",
+            "addressLine2": "In ab nesciunt aliq",
+            "city": "Chennai",
+            "state": "Andhra Pradesh",
+            "pinCode": "895652",
+            "country": "India",
+            "stateShortName": "AP",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-10-03T12:43:26.000Z",
+        "createdAt": "2024-10-03T12:32:55.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-03T12:41:18.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-03T12:43:26.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-03T12:45:34.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-10-03T12:53:10.000Z"
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 454,
+        "isCancelled": false,
+        "customerName": "Magesh Kumar A T",
+        "model": "Series III Max",
+        "floor": 3,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 115 1st street, Kazura garden, Chennai, Tamil Nadu, 600041, India",
+        "deliveryAddress": {
+            "addressLine1": "No 115 1st street",
+            "addressLine2": "Kazura garden",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600041",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "verified",
+        "stageStatusDate": "2024-10-03T07:07:44.000Z",
+        "createdAt": "2024-10-02T10:27:03.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": " 30% of the payment received.",
+                "stageStatusDate": "2024-10-02T10:30:40.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "verified",
+                "stageStatusDate": "2024-10-03T07:07:44.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "prasana kumar",
+        "assignee": "krishna",
+        "assignerEmployeeId": "8962",
+        "assigneeEmployeeId": "30301"
+    },
+    {
+        "orderId": 449,
+        "isCancelled": false,
+        "customerName": "Magesh Kumar A T",
+        "model": "Series IV Max",
+        "floor": 4,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 115 1st street, Kazura Garden, Chennai, Tamil Nadu, 600041, India",
+        "deliveryAddress": {
+            "addressLine1": "No 115 1st street",
+            "addressLine2": "Kazura Garden",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600041",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "70% Of The Payment Received For The Order.",
+        "stageStatusDate": "2024-10-02T08:19:47.000Z",
+        "createdAt": "2024-10-02T07:20:19.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "30% of the payment received.",
+                "stageStatusDate": "2024-10-02T07:56:05.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "70% Of The Payment Received For The Order.",
+                "stageStatusDate": "2024-10-02T08:19:47.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-02T08:35:51.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Rangeesh",
+        "assignee": "balaram",
+        "assignerEmployeeId": "8310",
+        "assigneeEmployeeId": "12121"
+    },
+    {
+        "orderId": 412,
+        "isCancelled": false,
+        "customerName": "Lalitha",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "Flat no 23, elim nagar, Chennai, Tamil Nadu, 600096, India",
+        "deliveryAddress": {
+            "addressLine1": "Flat no 23",
+            "addressLine2": "elim nagar",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600096",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "Chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "testing",
+        "stageStatusDate": "2024-09-30T04:32:23.000Z",
+        "createdAt": "2024-09-30T03:58:54.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approved",
+                "stageStatusDate": "2024-09-30T04:23:56.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "testing",
+                "stageStatusDate": "2024-09-30T04:32:23.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-30T08:39:20.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "prasana kumar",
+        "assignee": "krishna",
+        "assignerEmployeeId": "8962",
+        "assigneeEmployeeId": "30301"
+    },
+    {
+        "orderId": 405,
+        "isCancelled": false,
+        "customerName": "Dinesh J",
+        "model": "Series IV",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "123 Main Street, Anytown, NewYork, New York, 64585, USA",
+        "deliveryAddress": {
+            "addressLine1": "123 Main Street",
+            "addressLine2": "Anytown",
+            "city": "NewYork",
+            "state": "New York",
+            "pinCode": "64585",
+            "country": "USA",
+            "stateShortName": "NY",
+            "countryShortName": "US"
+        },
+        "tax": 0.18,
+        "customerAddress": "Chennai",
+        "bucket": "nl-ue",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "second Payment Approval done",
+        "stageStatusDate": "2024-09-27T05:59:10.000Z",
+        "createdAt": "2024-09-27T05:55:37.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "first Payment Approval done",
+                "stageStatusDate": "2024-09-27T05:57:55.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "second Payment Approval done",
+                "stageStatusDate": "2024-09-27T05:59:10.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-01T05:10:15.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 354,
+        "isCancelled": false,
+        "customerName": "Arun Muniyappan QA Tetser",
+        "model": "Series III",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "906 Clarendon Drive, Repudiandae officiis, Dolor, Chhattisgarh, 891421, India",
+        "deliveryAddress": {
+            "addressLine1": "906 Clarendon Drive",
+            "addressLine2": "Repudiandae officiis",
+            "city": "Dolor",
+            "state": "Chhattisgarh",
+            "pinCode": "891421",
+            "country": "India",
+            "stateShortName": "CT",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-09-24T11:17:27.000Z",
+        "createdAt": "2024-09-24T11:14:38.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-24T11:15:51.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-24T11:17:27.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "prasana kumar",
+        "assignee": "krishna",
+        "assignerEmployeeId": "8962",
+        "assigneeEmployeeId": "30301"
+    },
+    {
+        "orderId": 347,
+        "isCancelled": false,
+        "customerName": "Arun Muniyappan QA Tetser",
+        "model": "Series III Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "52 West Oak Avenue, Occaecat irure exerc, Chennai, Chandigarh, 216464, India",
+        "deliveryAddress": {
+            "addressLine1": "52 West Oak Avenue",
+            "addressLine2": "Occaecat irure exerc",
+            "city": "Chennai",
+            "state": "Chandigarh",
+            "pinCode": "216464",
+            "country": "India",
+            "stateShortName": "CH",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-09-24T09:55:55.000Z",
+        "createdAt": "2024-09-24T09:51:11.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-24T09:54:22.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-24T09:55:55.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-24T10:24:54.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Rangeesh",
+        "assignee": "kishor",
+        "assignerEmployeeId": "8310",
+        "assigneeEmployeeId": "10101"
+    },
+    {
+        "orderId": 322,
+        "isCancelled": false,
+        "customerName": "Albert Kennedy",
+        "model": "Series IV",
+        "floor": 3,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 5 Wakpata street, Minnesota, SouthDakota, South Dakota, 68780, USA",
+        "deliveryAddress": {
+            "addressLine1": "No 5 Wakpata street",
+            "addressLine2": "Minnesota",
+            "city": "SouthDakota",
+            "state": "South Dakota",
+            "pinCode": "68780",
+            "country": "USA",
+            "stateShortName": "SD",
+            "countryShortName": "US"
+        },
+        "tax": 0.06,
+        "customerAddress": "",
+        "bucket": "nl-ue",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Payement received confirm.",
+        "stageStatusDate": "2024-09-23T11:40:46.000Z",
+        "createdAt": "2024-09-23T11:29:54.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Payment received.",
+                "stageStatusDate": "2024-09-23T11:34:36.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Payement received confirm.",
+                "stageStatusDate": "2024-09-23T11:40:46.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-01T04:44:47.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "Magesh Kumar",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "8464"
+    },
+    {
+        "orderId": 303,
+        "isCancelled": false,
+        "customerName": "Arun Muniyappan QA Tetser",
+        "model": "Series IV",
+        "floor": 3,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "634 New Court, Eius consectetur do, chennai, Jharkhand, 606805, India",
+        "deliveryAddress": {
+            "addressLine1": "634 New Court",
+            "addressLine2": "Eius consectetur do",
+            "city": "chennai",
+            "state": "Jharkhand",
+            "pinCode": "606805",
+            "country": "India",
+            "stateShortName": "JH",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-09-20T06:39:38.000Z",
+        "createdAt": "2024-09-20T06:22:43.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-20T06:24:47.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-20T06:39:38.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 302,
+        "isCancelled": false,
+        "customerName": "Arun QA Tester",
+        "model": "Series III Max",
+        "floor": 4,
+        "deliveryType": "rapidDelivery",
+        "fullDeliveryAddress": "564 Rocky Old Lane, Quo quis possimus d, Quiest, Kerala, 606815, India",
+        "deliveryAddress": {
+            "addressLine1": "564 Rocky Old Lane",
+            "addressLine2": "Quo quis possimus d",
+            "city": "Quiest",
+            "state": "Kerala",
+            "pinCode": "606815",
+            "country": "India",
+            "stateShortName": "KL",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-09-20T04:42:40.000Z",
+        "createdAt": "2024-09-20T04:36:45.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-20T04:38:28.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-20T04:42:40.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-20T05:00:50.000Z"
+            }
+        ],
+        "assigner": "prasana kumar",
+        "assignee": "kishor",
+        "assignerEmployeeId": "8962",
+        "assigneeEmployeeId": "10101"
+    },
+    {
+        "orderId": 301,
+        "isCancelled": false,
+        "customerName": "Arun QA Tester",
+        "model": "Series III Max",
+        "floor": 3,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "49 Second Road, Ea quibusdam hic ill, chennai, Andhra Pradesh, 606805, India",
+        "deliveryAddress": {
+            "addressLine1": "49 Second Road",
+            "addressLine2": "Ea quibusdam hic ill",
+            "city": "chennai",
+            "state": "Andhra Pradesh",
+            "pinCode": "606805",
+            "country": "India",
+            "stateShortName": "AP",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-09-20T04:30:11.000Z",
+        "createdAt": "2024-09-20T03:43:40.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-20T04:11:11.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-20T04:30:11.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-14T08:09:38.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 299,
+        "isCancelled": false,
+        "customerName": "Magesh Kumar A T",
+        "model": "Series IV Max",
+        "floor": 4,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 5 Anne Beasant, Florida, Florida, California, 95874, USA",
+        "deliveryAddress": {
+            "addressLine1": "No 5 Anne Beasant",
+            "addressLine2": "Florida",
+            "city": "Florida",
+            "state": "California",
+            "pinCode": "95874",
+            "country": "USA",
+            "stateShortName": "CA",
+            "countryShortName": "US"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ue",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "70% of the payment received and verified.",
+        "stageStatusDate": "2024-09-19T11:08:53.000Z",
+        "createdAt": "2024-09-19T10:27:35.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "As the 30% of the total amount is received so approving this stage.",
+                "stageStatusDate": "2024-09-19T10:31:25.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "70% of the payment received and verified.",
+                "stageStatusDate": "2024-09-19T11:08:53.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "Magesh Kumar",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "8464"
+    },
+    {
+        "orderId": 294,
+        "isCancelled": false,
+        "customerName": "prasanna sri",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "ghandi street, 2nd line, chennai, Tamil Nadu, 530060, India",
+        "deliveryAddress": {
+            "addressLine1": "ghandi street",
+            "addressLine2": "2nd line",
+            "city": "chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "530060",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "second payment verified",
+        "stageStatusDate": "2024-09-19T08:46:56.000Z",
+        "createdAt": "2024-09-19T06:54:48.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "294-first payment verified",
+                "stageStatusDate": "2024-09-19T07:05:48.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "second payment verified",
+                "stageStatusDate": "2024-09-19T08:46:56.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Princy",
+        "assignee": "krishna",
+        "assignerEmployeeId": "8416",
+        "assigneeEmployeeId": "30301"
+    },
+    {
+        "orderId": 280,
+        "isCancelled": false,
+        "customerName": "Rangeesh G",
+        "model": "Series IV",
+        "floor": 4,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "12 , Village Hauz Khas, Delhi, Delhi, 110016, India",
+        "deliveryAddress": {
+            "addressLine1": "12 ",
+            "addressLine2": "Village Hauz Khas",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110016",
+            "country": "India",
+            "stateShortName": "DL",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Order Approved",
+        "stageStatusDate": "2024-09-17T07:26:15.000Z",
+        "createdAt": "2024-09-17T06:33:18.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Document Verification Done",
+                "stageStatusDate": "2024-09-17T06:40:48.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Order Approved",
+                "stageStatusDate": "2024-09-17T07:26:15.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Rangeesh",
+        "assignee": "kishor",
+        "assignerEmployeeId": "8310",
+        "assigneeEmployeeId": "10101"
+    },
+    {
+        "orderId": 274,
+        "isCancelled": false,
+        "customerName": "Arun M",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 107 kovil street , 1st line, tiruvannamalai, Tamil Nadu, 601201, India",
+        "deliveryAddress": {
+            "addressLine1": "No 107 kovil street ",
+            "addressLine2": "1st line",
+            "city": "tiruvannamalai",
+            "state": "Tamil Nadu",
+            "pinCode": "601201",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "verified",
+        "stageStatusDate": "2024-09-16T12:20:28.000Z",
+        "createdAt": "2024-09-16T10:10:17.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved",
+                "stageStatusDate": "2024-09-16T11:07:16.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "verified",
+                "stageStatusDate": "2024-09-16T12:20:28.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Kishor Kumar SS",
+        "assignee": "Kishor Kumar SS",
+        "assignerEmployeeId": "9026",
+        "assigneeEmployeeId": "9026"
+    },
+    {
+        "orderId": 273,
+        "isCancelled": false,
+        "customerName": "praveen",
+        "model": "Series III Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "ITC Center, 5th floor, Newyork, California, 12345, USA",
+        "deliveryAddress": {
+            "addressLine1": "ITC Center",
+            "addressLine2": "5th floor",
+            "city": "Newyork",
+            "state": "California",
+            "pinCode": "12345",
+            "country": "USA",
+            "stateShortName": "CA",
+            "countryShortName": "US"
+        },
+        "tax": 0.18,
+        "customerAddress": "praveen.p@nibavlifts.com",
+        "bucket": "nl-ue",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "approved",
+        "stageStatusDate": "2024-09-16T09:23:21.000Z",
+        "createdAt": "2024-09-16T09:05:01.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved",
+                "stageStatusDate": "2024-09-16T09:18:41.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved",
+                "stageStatusDate": "2024-09-16T09:23:21.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved",
+                "stageStatusDate": "2024-09-16T09:46:14.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "approved",
+                "stageStatusRemark": "fdsfsf",
+                "stageStatusDate": "2024-10-04T09:13:39.000Z"
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 271,
+        "isCancelled": false,
+        "customerName": "Lalitha",
+        "model": "Series III Max",
+        "floor": 4,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "Flat no 23, elim nagar, Chennai, Tamil Nadu, 600096, India",
+        "deliveryAddress": {
+            "addressLine1": "Flat no 23",
+            "addressLine2": "elim nagar",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600096",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.36,
+        "customerAddress": "Chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Approved",
+        "stageStatusDate": "2024-09-18T11:51:30.000Z",
+        "createdAt": "2024-09-13T12:12:23.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approved",
+                "stageStatusDate": "2024-09-13T12:28:26.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approved",
+                "stageStatusDate": "2024-09-18T11:51:30.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 269,
+        "isCancelled": false,
+        "customerName": "Ranjani S",
+        "model": "Series IV",
+        "floor": 4,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 789 Addams road, Philedelpia, Philedelpia, Indiana, 98765, USA",
+        "deliveryAddress": {
+            "addressLine1": "No 789 Addams road",
+            "addressLine2": "Philedelpia",
+            "city": "Philedelpia",
+            "state": "Indiana",
+            "pinCode": "98765",
+            "country": "USA",
+            "stateShortName": "IN",
+            "countryShortName": "US"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ue",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "secound payment Approved",
+        "stageStatusDate": "2024-09-13T09:44:18.000Z",
+        "createdAt": "2024-09-13T09:41:15.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "first payment approved",
+                "stageStatusDate": "2024-09-13T09:42:35.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "secound payment Approved",
+                "stageStatusDate": "2024-09-13T09:44:18.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 268,
+        "isCancelled": false,
+        "customerName": "Mithran A",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 2 Sardar Patel Nagar, Illinois, Illinois, Iowa, 98534, USA",
+        "deliveryAddress": {
+            "addressLine1": "No 2 Sardar Patel Nagar",
+            "addressLine2": "Illinois",
+            "city": "Illinois",
+            "state": "Iowa",
+            "pinCode": "98534",
+            "country": "USA",
+            "stateShortName": "IA",
+            "countryShortName": "US"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ue",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "secound Payment Approved",
+        "stageStatusDate": "2024-09-13T09:03:10.000Z",
+        "createdAt": "2024-09-13T08:52:15.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "30% payment received",
+                "stageStatusDate": "2024-09-13T08:54:57.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "secound Payment Approved",
+                "stageStatusDate": "2024-09-13T09:03:10.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-30T10:13:40.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 266,
+        "isCancelled": false,
+        "customerName": "Ranjith K",
+        "model": "Series III Max",
+        "floor": 4,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 7 MSD Nagar, Allahabad, Allahabad, Tamil Nadu, 100014, India",
+        "deliveryAddress": {
+            "addressLine1": "No 7 MSD Nagar",
+            "addressLine2": "Allahabad",
+            "city": "Allahabad",
+            "state": "Tamil Nadu",
+            "pinCode": "100014",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "70% payment received can move to next stage.",
+        "stageStatusDate": "2024-09-12T13:20:47.000Z",
+        "createdAt": "2024-09-12T13:14:28.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approval of payment for 30%",
+                "stageStatusDate": "2024-09-12T13:16:42.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "70% payment received can move to next stage.",
+                "stageStatusDate": "2024-09-12T13:20:47.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "kishor",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "10101"
+    },
+    {
+        "orderId": 260,
+        "isCancelled": false,
+        "customerName": "Arun QA Tester",
+        "model": "Series III",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "89 Cowley Drive, Omnis enim expedita , Laborum, Himachal Pradesh, 548878, India",
+        "deliveryAddress": {
+            "addressLine1": "89 Cowley Drive",
+            "addressLine2": "Omnis enim expedita ",
+            "city": "Laborum",
+            "state": "Himachal Pradesh",
+            "pinCode": "548878",
+            "country": "India",
+            "stateShortName": "HP",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-09-12T11:13:44.000Z",
+        "createdAt": "2024-09-12T11:10:36.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-12T11:11:52.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-12T11:13:44.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-07T08:42:35.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 258,
+        "isCancelled": false,
+        "customerName": "Lalitha",
+        "model": "Series III",
+        "floor": 3,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "Flat no 23, elim nagar, Chennai, Tamil Nadu, 600096, India",
+        "deliveryAddress": {
+            "addressLine1": "Flat no 23",
+            "addressLine2": "elim nagar",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600096",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "Chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Approve",
+        "stageStatusDate": "2024-09-12T10:44:05.000Z",
+        "createdAt": "2024-09-12T10:35:27.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approve",
+                "stageStatusDate": "2024-09-12T10:39:16.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approve",
+                "stageStatusDate": "2024-09-12T10:44:05.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Prasanna Sri",
+        "assignee": "Baskar",
+        "assignerEmployeeId": "8214",
+        "assigneeEmployeeId": "30310"
+    },
+    {
+        "orderId": 256,
+        "isCancelled": false,
+        "customerName": "sam R",
+        "model": "Series III",
+        "floor": 4,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "A516 sare homes, thiruporur, chennai, Tamil Nadu, 6103, India",
+        "deliveryAddress": {
+            "addressLine1": "A516 sare homes",
+            "addressLine2": "thiruporur",
+            "city": "chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "6103",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Testing comments approved",
+        "stageStatusDate": "2024-09-17T06:34:58.000Z",
+        "createdAt": "2024-09-12T10:32:48.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "first payment approved",
+                "stageStatusDate": "2024-09-12T11:10:06.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Testing comments approved",
+                "stageStatusDate": "2024-09-17T06:34:58.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Tester",
+        "assignee": "Akbar",
+        "assignerEmployeeId": "77777",
+        "assigneeEmployeeId": "30320"
+    },
+    {
+        "orderId": 254,
+        "isCancelled": false,
+        "customerName": "Anto P",
+        "model": "Series III Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "sothern avenue, stevew harvey street, cleveland, Ohio, 54623, USA",
+        "deliveryAddress": {
+            "addressLine1": "sothern avenue",
+            "addressLine2": "stevew harvey street",
+            "city": "cleveland",
+            "state": "Ohio",
+            "pinCode": "54623",
+            "country": "USA",
+            "stateShortName": "OH",
+            "countryShortName": "US"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ue",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "verified",
+        "stageStatusDate": "2024-09-12T10:16:23.000Z",
+        "createdAt": "2024-09-12T09:58:18.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "1st payment done",
+                "stageStatusDate": "2024-09-12T10:01:10.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "verified",
+                "stageStatusDate": "2024-09-12T10:16:23.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-12T10:22:54.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "vivedha",
+        "assignee": "Saravanan",
+        "assignerEmployeeId": "8514",
+        "assigneeEmployeeId": "7992"
+    },
+    {
+        "orderId": 251,
+        "isCancelled": false,
+        "customerName": "Leo P",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "2nd line, ambethkar nagar, chennai, Tamil Nadu, 611230, India",
+        "deliveryAddress": {
+            "addressLine1": "2nd line",
+            "addressLine2": "ambethkar nagar",
+            "city": "chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "611230",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "verified",
+        "stageStatusDate": "2024-09-12T10:16:40.000Z",
+        "createdAt": "2024-09-12T09:51:48.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "1st payment done",
+                "stageStatusDate": "2024-09-12T10:00:26.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "verified",
+                "stageStatusDate": "2024-09-12T10:16:40.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "verificationPending",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-12T10:24:08.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "vivedha",
+        "assignee": "krishna",
+        "assignerEmployeeId": "8514",
+        "assigneeEmployeeId": "30301"
+    },
+    {
+        "orderId": 249,
+        "isCancelled": false,
+        "customerName": "Amburose L",
+        "model": "Series III",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 47 6th cross, ambethkar nagar, banglore, Karnataka, 560047, India",
+        "deliveryAddress": {
+            "addressLine1": "No 47 6th cross",
+            "addressLine2": "ambethkar nagar",
+            "city": "banglore",
+            "state": "Karnataka",
+            "pinCode": "560047",
+            "country": "India",
+            "stateShortName": "KA",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "second payment done",
+        "stageStatusDate": "2024-09-12T09:43:49.000Z",
+        "createdAt": "2024-09-12T09:20:52.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "first payment approved",
+                "stageStatusDate": "2024-09-12T09:26:18.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "second payment done",
+                "stageStatusDate": "2024-09-12T09:43:49.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "verificationPending",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-12T09:46:51.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Princy",
+        "assignee": "Usha",
+        "assignerEmployeeId": "8416",
+        "assigneeEmployeeId": "666777"
+    },
+    {
+        "orderId": 248,
+        "isCancelled": false,
+        "customerName": "Thirumalaivasan P",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 18 singavaram salai, krishnapuram , gingee, Tamil Nadu, 604202, India",
+        "deliveryAddress": {
+            "addressLine1": "No 18 singavaram salai",
+            "addressLine2": "krishnapuram ",
+            "city": "gingee",
+            "state": "Tamil Nadu",
+            "pinCode": "604202",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "second payment done",
+        "stageStatusDate": "2024-09-12T09:12:36.000Z",
+        "createdAt": "2024-09-12T08:54:42.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "first payment done",
+                "stageStatusDate": "2024-09-12T09:04:02.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "second payment done",
+                "stageStatusDate": "2024-09-12T09:12:36.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "verificationPending",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-12T09:16:43.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Princy",
+        "assignee": "Rangeesh",
+        "assignerEmployeeId": "8416",
+        "assigneeEmployeeId": "8310"
+    },
+    {
+        "orderId": 245,
+        "isCancelled": false,
+        "customerName": "Pooja G",
+        "model": "Series IV Max",
+        "floor": 4,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 1 37 UR street, Pudhupet, Gudiyatham, Tamil Nadu, 632602, India",
+        "deliveryAddress": {
+            "addressLine1": "No 1 37 UR street",
+            "addressLine2": "Pudhupet",
+            "city": "Gudiyatham",
+            "state": "Tamil Nadu",
+            "pinCode": "632602",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "secound Payment Approved",
+        "stageStatusDate": "2024-09-12T07:25:05.000Z",
+        "createdAt": "2024-09-12T07:15:17.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Documents verified",
+                "stageStatusDate": "2024-09-12T07:16:30.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "secound Payment Approved",
+                "stageStatusDate": "2024-09-12T07:25:05.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "rejected",
+                "stageStatusRemark": "lkihjhgyfy",
+                "stageStatusDate": "2024-10-02T11:18:37.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "kishor",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "10101"
+    },
+    {
+        "orderId": 244,
+        "isCancelled": false,
+        "customerName": "Magesh Kumar A T",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "NO 5 Nehru Nagar, Gandhi road, Kalpakkam, Tamil Nadu, 600789, India",
+        "deliveryAddress": {
+            "addressLine1": "NO 5 Nehru Nagar",
+            "addressLine2": "Gandhi road",
+            "city": "Kalpakkam",
+            "state": "Tamil Nadu",
+            "pinCode": "600789",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "Chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Payment received so approving this stage",
+        "stageStatusDate": "2024-09-12T07:03:54.000Z",
+        "createdAt": "2024-09-12T06:48:32.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approved",
+                "stageStatusDate": "2024-09-12T06:50:07.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Payment received so approving this stage",
+                "stageStatusDate": "2024-09-12T07:03:54.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Payment of 70% received",
+                "stageStatusDate": "2024-09-12T07:09:02.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Magesh Kumar",
+        "assignee": "sooriya",
+        "assignerEmployeeId": "8464",
+        "assigneeEmployeeId": "30300"
+    },
+    {
+        "orderId": 243,
+        "isCancelled": false,
+        "customerName": "Arun QA Tester",
+        "model": "Series IV",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "75 White Hague Drive, Elit quo ut pariatu, Incidunt, Andhra Pradesh, 606805, India",
+        "deliveryAddress": {
+            "addressLine1": "75 White Hague Drive",
+            "addressLine2": "Elit quo ut pariatu",
+            "city": "Incidunt",
+            "state": "Andhra Pradesh",
+            "pinCode": "606805",
+            "country": "India",
+            "stateShortName": "AP",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "chennai",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Pay done",
+        "stageStatusDate": "2024-09-12T11:08:59.000Z",
+        "createdAt": "2024-09-12T06:28:25.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-12T11:07:33.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Pay done",
+                "stageStatusDate": "2024-09-12T11:08:59.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 242,
+        "isCancelled": false,
+        "customerName": "princy T",
+        "model": "Series IV",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "2nd street, murga nagar, chennai, Tamil Nadu, 605342, India",
+        "deliveryAddress": {
+            "addressLine1": "2nd street",
+            "addressLine2": "murga nagar",
+            "city": "chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "605342",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "sec payment done",
+        "stageStatusDate": "2024-09-12T06:39:50.000Z",
+        "createdAt": "2024-09-12T06:28:16.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "first payment approved",
+                "stageStatusDate": "2024-09-12T06:31:34.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "sec payment done",
+                "stageStatusDate": "2024-09-12T06:39:50.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "verificationPending",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-12T07:20:14.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Princy",
+        "assignee": "Baskar",
+        "assignerEmployeeId": "8416",
+        "assigneeEmployeeId": "30310"
+    },
+    {
+        "orderId": 238,
+        "isCancelled": false,
+        "customerName": "Princy Priya",
+        "model": "Series IV Max",
+        "floor": 3,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 99 Nehru Nagar, Indrajit street, Karaikudi, Tamil Nadu, 685211, India",
+        "deliveryAddress": {
+            "addressLine1": "No 99 Nehru Nagar",
+            "addressLine2": "Indrajit street",
+            "city": "Karaikudi",
+            "state": "Tamil Nadu",
+            "pinCode": "685211",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "approved",
+        "stageStatusDate": "2024-09-12T06:07:12.000Z",
+        "createdAt": "2024-09-12T05:17:34.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "verification completed",
+                "stageStatusDate": "2024-09-12T05:21:16.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved",
+                "stageStatusDate": "2024-09-12T06:07:12.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Document Approved",
+                "stageStatusDate": "2024-09-12T06:22:23.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-12T06:29:46.000Z"
+            }
+        ],
+        "assigner": "Princy",
+        "assignee": "Magesh Kumar",
+        "assignerEmployeeId": "8416",
+        "assigneeEmployeeId": "8464"
+    },
+    {
+        "orderId": 237,
+        "isCancelled": false,
+        "customerName": "Princy Priya",
+        "model": "Series IV Max",
+        "floor": 4,
+        "deliveryType": "fastDelivery",
+        "fullDeliveryAddress": "No 5 Gandhi Irwin road, Egmore, Chennai, Tamil Nadu, 600005, India",
+        "deliveryAddress": {
+            "addressLine1": "No 5 Gandhi Irwin road",
+            "addressLine2": "Egmore",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600005",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "approved",
+        "stageStatusDate": "2024-10-09T05:30:45.000Z",
+        "createdAt": "2024-09-12T05:08:44.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Payment Verified Done",
+                "stageStatusDate": "2024-09-12T05:12:14.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved",
+                "stageStatusDate": "2024-10-09T05:30:45.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "vivedha",
+        "assignee": "balaram",
+        "assignerEmployeeId": "8514",
+        "assigneeEmployeeId": "12121"
+    },
+    {
+        "orderId": 236,
+        "isCancelled": false,
+        "customerName": "Magesh",
+        "model": "Series III",
+        "floor": 4,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 1 1st street, Kazura Garden, Chennai, Tamil Nadu, 600041, India",
+        "deliveryAddress": {
+            "addressLine1": "No 1 1st street",
+            "addressLine2": "Kazura Garden",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600041",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "Ontario",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "secound Payment Approved",
+        "stageStatusDate": "2024-09-12T12:26:44.000Z",
+        "createdAt": "2024-09-12T05:03:33.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Order Approved",
+                "stageStatusDate": "2024-09-12T05:07:06.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "secound Payment Approved",
+                "stageStatusDate": "2024-09-12T12:26:44.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "processing",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-10-15T03:13:41.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "vivedha",
+        "assignee": "premalatha",
+        "assignerEmployeeId": "8514",
+        "assigneeEmployeeId": "8280"
+    },
+    {
+        "orderId": 205,
+        "isCancelled": false,
+        "customerName": "Mubarak S",
+        "model": "Series IV Max",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 3999, Mt , Tirunelveli, Tamil Nadu, 627423, India",
+        "deliveryAddress": {
+            "addressLine1": "No 3999",
+            "addressLine2": "Mt ",
+            "city": "Tirunelveli",
+            "state": "Tamil Nadu",
+            "pinCode": "627423",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "approved for production",
+        "stageStatusDate": "2024-09-30T13:28:37.000Z",
+        "createdAt": "2024-09-11T13:09:06.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved for production",
+                "stageStatusDate": "2024-09-30T13:28:32.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved for production",
+                "stageStatusDate": "2024-09-30T13:28:37.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 178,
+        "isCancelled": false,
+        "customerName": "THAMIZHHD",
+        "model": "Series III",
+        "floor": 2,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "no 2 balaganapathi nagar, odaiveli ariyankuppam, pondicherry, Puducherry, 605007, India",
+        "deliveryAddress": {
+            "addressLine1": "no 2 balaganapathi nagar",
+            "addressLine2": "odaiveli ariyankuppam",
+            "city": "pondicherry",
+            "state": "Puducherry",
+            "pinCode": "605007",
+            "country": "India",
+            "stateShortName": "PY",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "pondy",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "test",
+        "stageStatusDate": "2024-09-30T04:19:27.000Z",
+        "createdAt": "2024-09-11T11:50:53.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "test",
+                "stageStatusDate": "2024-09-30T04:15:36.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "test",
+                "stageStatusDate": "2024-09-30T04:19:27.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-30T04:19:44.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "approved",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-30T04:19:45.000Z"
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    },
+    {
+        "orderId": 129,
+        "isCancelled": false,
+        "customerName": "prasanna srinivasan",
+        "model": "Series III Max",
+        "floor": 3,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "no 10 , no 1000, madurai, Tamil Nadu, 625020, India",
+        "deliveryAddress": {
+            "addressLine1": "no 10 ",
+            "addressLine2": "no 1000",
+            "city": "madurai",
+            "state": "Tamil Nadu",
+            "pinCode": "625020",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iii-max",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "DOC Approved",
+        "stageStatusDate": "2024-10-07T09:15:24.000Z",
+        "createdAt": "2024-09-11T11:03:55.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "approved",
+                "stageStatusDate": "2024-10-07T08:47:30.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "DOC Approved",
+                "stageStatusDate": "2024-10-07T09:15:24.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "sathiyanarayanan",
+        "assignee": "kishor",
+        "assignerEmployeeId": "8309",
+        "assigneeEmployeeId": "10101"
+    },
+    {
+        "orderId": 88,
+        "isCancelled": false,
+        "customerName": "Magesh Kumar A T",
+        "model": "Series III",
+        "floor": 4,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 1 Netaji street, Thames lake road, NewJersey, New Jersey, 95102, USA",
+        "deliveryAddress": {
+            "addressLine1": "No 1 Netaji street",
+            "addressLine2": "Thames lake road",
+            "city": "NewJersey",
+            "state": "New Jersey",
+            "pinCode": "95102",
+            "country": "USA",
+            "stateShortName": "NJ",
+            "countryShortName": "US"
+        },
+        "tax": 0.18,
+        "customerAddress": "Chennai",
+        "bucket": "nl-ue",
+        "shortUrl": "series-iii-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": "Document Verification ",
+        "stageStatusDate": "2024-09-12T06:09:06.000Z",
+        "createdAt": "2024-09-11T10:19:06.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "first payment approved",
+                "stageStatusDate": "2024-09-12T05:02:39.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Document Verification ",
+                "stageStatusDate": "2024-09-12T06:09:06.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": "Approved",
+                "stageStatusDate": "2024-09-12T06:40:27.000Z"
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": "Rangeesh",
+        "assignee": "balaram",
+        "assignerEmployeeId": "8310",
+        "assigneeEmployeeId": "12121"
+    },
+    {
+        "orderId": 39,
+        "isCancelled": false,
+        "customerName": "Kiruthiga N",
+        "model": "Series IV",
+        "floor": 3,
+        "deliveryType": "standard",
+        "fullDeliveryAddress": "No 80 Annai velankanni 2nd avenue, Mugalivakkam, Chennai, Tamil Nadu, 600125, India",
+        "deliveryAddress": {
+            "addressLine1": "No 80 Annai velankanni 2nd avenue",
+            "addressLine2": "Mugalivakkam",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "pinCode": "600125",
+            "country": "India",
+            "stateShortName": "TN",
+            "countryShortName": "IN"
+        },
+        "tax": 0.18,
+        "customerAddress": "",
+        "bucket": "nl-ap",
+        "shortUrl": "series-iv-classic",
+        "mainStage": "production",
+        "subStage": "secoundPaymentApproval",
+        "status": "approved",
+        "stageStatusRemark": null,
+        "stageStatusDate": "2024-09-26T10:29:24.000Z",
+        "createdAt": "2024-09-11T09:54:15.000Z",
+        "orderStages": [
+            {
+                "mainStage": "order",
+                "subStage": "firstPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-26T10:27:31.000Z"
+            },
+            {
+                "mainStage": "production",
+                "subStage": "secoundPaymentApproval",
+                "status": "approved",
+                "stageStatusRemark": null,
+                "stageStatusDate": "2024-09-26T10:29:24.000Z"
+            },
+            {
+                "mainStage": "packing",
+                "subStage": "finalPaymentApproval",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            },
+            {
+                "mainStage": "installation",
+                "subStage": "handover",
+                "status": "pending",
+                "stageStatusRemark": null,
+                "stageStatusDate": null
+            }
+        ],
+        "assigner": null,
+        "assignee": null,
+        "assignerEmployeeId": null,
+        "assigneeEmployeeId": null
+    }
+]
