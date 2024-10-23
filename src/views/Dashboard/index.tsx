@@ -229,7 +229,7 @@ function Dashboard() {
               },
             }}
             rows={userList}
-            getRowId={(row) => row.id}
+            getRowId={(row: any) => row.id}
             columns={columns.map((column) => ({
               ...column,
               headerAlign: "left",
