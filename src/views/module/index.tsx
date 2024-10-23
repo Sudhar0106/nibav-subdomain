@@ -154,9 +154,9 @@ function TableModules() {
       filteredData =
         value === "All"
           ? fetchAllData
-          : dataList.filter((item: any) => item[name] === value);
+          : fetchAllData.filter((item: any) => item[name] === value);
     } else {
-      filteredData = dataList.filter((item: any) =>
+      filteredData = fetchAllData.filter((item: any) =>
         item[name]?.toString().includes(value)
       );
     }
