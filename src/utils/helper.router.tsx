@@ -11,6 +11,7 @@ export default function useGetDomain() {
     const main = MainApp.find(app => app.subdomain === subDomain);
     const FinalModal = main?.app || currentDomain.app;
 
+    console.log(main)
     return { FinalModal, main };
 }
 
