@@ -17,7 +17,7 @@ function Login() {
     const onsubmit: SubmitHandler<Formvalues> = (data) => {
         console.log(data)
         reset();
-        window.location.href = "http://nibav.localhost:5173/pages/dashboard"
+        window.location.href = `http://nibav.${window.location.hostname}//pages/dashboard`
     }
 
     const Gllogin = useGoogleLogin({
